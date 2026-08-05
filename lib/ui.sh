@@ -131,7 +131,7 @@ ui_load_theme() {
     # Los avisos van en amarillo y no en naranja: con el acento ya naranja,
     # un aviso naranja no se distinguiria de un titulo.
     naranja)
-      A="ff9e3d:215"; A2="c084fc:183"; BD="a855f7:141"
+      A="ff9e3d:215"; A2="c084fc:183"; BD="005f87:24"
       TX="e6e4ea:254"; MU="9c99a6:246"; DI="6b6875:242"
       OK="6ee7a0:84";  WN="ffd93d:220"; ER="ff5f5f:203"; IN="8ab4ff:111"
       F16=35
