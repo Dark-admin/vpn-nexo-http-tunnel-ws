@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.tar.gz
+*.log
+
+# Nunca versionar datos de clientes: users.json lleva las claves en claro
+users.json
+nexotunnel-configs/
+nexotunnel-backups/

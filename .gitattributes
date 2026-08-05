@@ -1,0 +1,8 @@
+# Los scripts DEBEN viajar con finales de linea LF.
+# Sin esto, un clon hecho en Windows con core.autocrlf=true guarda CRLF y
+# en el servidor Linux fallan todos con "bad interpreter: /bin/bash^M".
+* text=auto eol=lf
+*.sh   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+LICENSE text eol=lf
